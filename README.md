@@ -7,8 +7,8 @@
 
 
 <p align="center">
-<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-<a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<a href= "https://dev.to/ari_hacks" target="_blank"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+<a href= "https://twitter.com/ari_hacks" target="_blank"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 </p>
 
 <p align="center">
@@ -19,7 +19,6 @@ Check out my repos ⬇️
 
 <!--
 **ari-hacks/ari-hacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img align="center" src="https://media.giphy.com/media/9m5a3Tdw8dWKs/giphy.gif width="500" height="300"/>
 
 Here are some ideas to get you started:
 
