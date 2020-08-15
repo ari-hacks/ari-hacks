@@ -11,8 +11,9 @@
 <a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 </p>
 
-<p align="center">
+<p align="center"><samp>
 Check out my repos ⬇️  
+  </samp>
 </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
